@@ -1,0 +1,12 @@
+Estos son todos los algoritmos lineales a desarrollar:
+
+1) Arreglos (arrays)
+2) Listas enlazadas:
+    - Simple
+    - Doble
+    - Circular
+3) Pilas (Stacks)
+4) Colas (Queues)
+    - Cola simple
+    - Cola doble (Deque)
+    - Cola de prioridad
