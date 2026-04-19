@@ -1,0 +1,12 @@
+Routing:
+
+OSPF
+BGP
+
+
+Scheduling:
+
+Round Robin
+FIFO
+Shortest Job First
+

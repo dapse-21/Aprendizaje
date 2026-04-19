@@ -1,0 +1,13 @@
+Estos son los otros algoritmos a desarrollar:
+
+1) Árboles:
+    - Binarios
+    - Árboles binarios de búsqueda (BST)
+    - AVL
+    - Red-Black Trees
+    - Heaps (Min/Max Heap
+2) Grafos:
+    - Representación (matriz, lista de adyacencia)
+    - Dirigidos / no dirigidos
+    - Ponderados / no ponderados
+3) Tablas hash (HashMaps)

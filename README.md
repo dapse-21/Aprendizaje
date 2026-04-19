@@ -1,1 +1,2 @@
-# Redes_n
+Hasta ahora no tengo del todo claro que tanto incluir. Pero al menos por el momento se tiene una estructura básica seriada segun mi punto de vista para abordar los temas con cierta escalabilidad en la complejidad.
+Quizas agregue una presentacion a modo de explicacion, asi como el codigo desarrollado (puede que ademas de hacerlo en python tambien lo haga en otros lenguajes)
